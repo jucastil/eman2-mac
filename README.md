@@ -27,7 +27,8 @@ At the end, you should get the *e2display.py* windown
 Let's say your computer is called **MyMacBook**.  
 Then your docker should be called **MiMacBookeman2**.  
 To access inside, type something like this:
-`` docker exec -it sbmm329eman2 /bin/bash.``.  
+`` docker exec -it MyMacBookeman2 /bin/bash.``.  
+(the word after "it" is the name of the docker).  
 You should get a shell that is inside the container.   
 On *extra* you have a script to start the conda environment. Run it.    
 ``extra/start-e2display.sh``
