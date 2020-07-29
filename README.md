@@ -3,8 +3,8 @@ WHAT IS THIS :
 A CentOS 7 docker able to run eman2.  
 Features:  
 - CentOS 7 Docker Container 
-- Amira license server
-- Amira 5.5.0
+- Miniconda3-4.6.14
+- eman2
 
 We start with a clean OSX 10.15.3 (Catalina).
 
