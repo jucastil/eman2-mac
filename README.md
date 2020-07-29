@@ -13,11 +13,11 @@ To download docker for mac, follow the instructions (https://docs.docker.com/doc
 ## Installing the eman2-mac docker
 
 - Choose a folder where the docker will lay.  
-- Download the docker (copy this on your terminal)
+- Download the docker (copy this on your terminal).  
 ``git clone https://github.com/jucastil/eman2-mac.git``  
 - Go into the docker folder **eman2-mac**.  
 - Run the installation script. 
-``./start-eman2-docker.sh``.\. 
+``./start-eman2-docker.sh``.\.   
 This will take some time, so go for a coffe :-)
 
 At the end, you should get the *e2display.py* windown
